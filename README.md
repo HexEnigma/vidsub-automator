@@ -1,5 +1,7 @@
 # VidSub-Automator 🎬
 
+[![v1.0.0](https://img.shields.io/badge/Download-v1.0.0-blue?style=for-the-badge&logo=github)](https://github.com/HexEnigma/vidsub-automator/releases/latest)
+
 Today I needed to add subtitles to a video file, and I thought of the struggles: if I change devices, I need to add them again; I cannot easily share them with friends because they'll need to manually add subs later. I created this to make the process a "no-brainer."
 
 VidSub-Automator is a set of PowerShell scripts using FFmpeg to permanently integrate subtitles or combine series episodes into a single master file.
